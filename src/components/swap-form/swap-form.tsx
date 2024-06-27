@@ -202,7 +202,7 @@ export const SwapScreen = () => {
                         )
                     ) : (
                         <FormButton
-                            text="Connect Wallet"
+                            text="连接钱包"
                             onClick={handleConnectClick}
                         />
                     )}
