@@ -24,15 +24,15 @@ export const LogoText: FC<Props> = ({
             stroke="none"
         >
             <text
-        x="290%"
-        y="290%"
+        x="190%"
+        y="190%"
         dominantBaseline="middle"
         textAnchor="middle"
         fontFamily="Arial"
         fontSize="100"
         fill="black"
       >
-        Hello World
+        TON链SWAP
       </text>
         </g>
     </svg>
