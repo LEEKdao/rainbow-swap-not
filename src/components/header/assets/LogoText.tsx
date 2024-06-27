@@ -29,7 +29,7 @@ export const LogoText: FC<Props> = ({
         dominantBaseline="middle"
         textAnchor="middle"
         fontFamily="Arial"
-        fontSize="1000"
+        fontSize="9000"
         fill="black"
       >
         Hello World
