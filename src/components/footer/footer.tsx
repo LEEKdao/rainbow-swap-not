@@ -2,8 +2,8 @@ import styles from './footer.module.css';
 import {useViewportHeight} from '../../hooks/viewport-height/viewport-height.hook';
 import {getClassName} from '../../utils/style.utils';
 
-const TELEGRAM_CHANNEL_LINK = 'https://t.me/rainbow_swap';
-const COMMUNITY_CHAT_LINK = 'https://t.me/rainbow_swap_chat';
+const TELEGRAM_CHANNEL_LINK = 'https://t.me/shen_coin';
+const COMMUNITY_CHAT_LINK = 'https://t.me/shen_coin';
 
 const CONTAINER_HEIGHT = 40;
 const CONTAINER_MARGIN_BOTTOM = 20;
@@ -39,7 +39,7 @@ export const Footer = () => {
             </div>
             <div className={styles.container_row}>
                 <p className={styles.container_text}>
-                    Copyright © 2024 Blackbot.
+                    Copyright © 2024 神秘财团旗下产品.
                 </p>
             </div>
         </div>
