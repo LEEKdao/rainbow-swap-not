@@ -161,7 +161,7 @@ export const SwapScreen = () => {
                     <div className={styles.input_asset_container}>
                         <CustomInput
                             ref={inputRef}
-                            label="You send"
+                            label="兑换"
                             assetSelectorHeaderTitle="Select input asset"
                             balance={balances[inputAssetAddress]}
                             isInputEnabled={true}
@@ -174,7 +174,7 @@ export const SwapScreen = () => {
                     </div>
                     <div className={styles.output_asset_container}>
                         <CustomInput
-                            label="You receive"
+                            label="接收"
                             assetSelectorHeaderTitle="Select output asset"
                             balance={balances[outputAssetAddress]}
                             isInputEnabled={false}
