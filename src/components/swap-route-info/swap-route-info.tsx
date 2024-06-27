@@ -54,7 +54,7 @@ export const SwapRouteInfo: FC = () => {
                     styles.route_info_inside_div_big
                 )}
             >
-                <p>You send</p>
+                <p>兑换</p>
                 <div>
                     <p>
                         {swapInfo.inputAssetAmount} {inputAsset.symbol}
@@ -71,7 +71,7 @@ export const SwapRouteInfo: FC = () => {
                     styles.route_info_inside_div_big
                 )}
             >
-                <p>You receive</p>
+                <p>接收</p>
                 <div>
                     <p>
                         {swapInfo.outputAssetAmount} {outputAsset.symbol}
