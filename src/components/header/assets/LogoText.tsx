@@ -24,8 +24,6 @@ export const LogoText: FC<Props> = ({
             stroke="none"
         >
             <text
-        x="50%"
-        y="50%"
         dominantBaseline="middle"
         textAnchor="middle"
         fontFamily="Arial"
