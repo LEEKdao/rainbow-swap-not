@@ -29,7 +29,7 @@ export const LogoText: FC<Props> = ({
         dominantBaseline="middle"
         textAnchor="middle"
         fontFamily="Arial"
-        fontSize="19090"
+        fontSize="6090"
         fill="black"
       >
         TON链SWAP
