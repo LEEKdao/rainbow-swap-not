@@ -24,7 +24,7 @@ export const Footer = () => {
                     href={TELEGRAM_CHANNEL_LINK}
                     target="_blank"
                 >
-                    Telegram Channel
+                    电报群
                 </a>
                 <a
                     className={getClassName(
@@ -34,7 +34,7 @@ export const Footer = () => {
                     href={COMMUNITY_CHAT_LINK}
                     target="_blank"
                 >
-                    Community Chat
+                    电报频道
                 </a>
             </div>
             <div className={styles.container_row}>
