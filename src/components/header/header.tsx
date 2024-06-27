@@ -42,7 +42,7 @@ export const Header = () => {
                         className={styles.connect_button}
                         onClick={handleConnect}
                     >
-                        Connect
+                        连接钱包
                     </button>
                 ) : (
                     <WalletMenu walletAddress={walletAddress} />
